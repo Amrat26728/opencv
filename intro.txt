@@ -1,0 +1,14 @@
+what is OpenCV?
+     -> OpenCV (Open Source Computer Vision Library) is open source computer vision and machine learning library.
+     -> OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate
+        the use of machine perception in the commercial products.
+     -> Being a BSD-Licensed product, OpenCV makes it easy for bussinesses to utilize and modify the code.
+     -> OpenCV was officially launched in 1999 at intel research.
+     
+Applications of OpenCV:
+     -> Object recognition
+     -> Vahicle analytics
+     -> Person identification
+     -> Human object interaction
+     -> Facial features improvement
+     -> Automated surveillance system
